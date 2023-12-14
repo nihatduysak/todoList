@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ekleBtn {
+    background-color: lightcoral;
+    padding: 5px;
+} 
